@@ -1,7 +1,12 @@
 {
-  "schema": 1,
+  "schema": 2,
   "env": "live",
-  "version": "0.41",
+  "versions": {
+    "desktop": "0.41",
+    "ios": "0.41",
+    "android": "0.41"
+  },
+  "versione_multiplayer": "0.43",
   "url_android": "https://play.google.com/store/apps/details?id=com.divano.streetuniversity",
   "url_ios": "",
   "url_desktop": ""
