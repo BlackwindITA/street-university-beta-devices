@@ -2,11 +2,11 @@
   "schema": 2,
   "env": "stage",
   "versions": {
-    "desktop": "0.52",
-    "ios": "0.52",
-    "android": "0.52"
+    "desktop": "0.53",
+    "ios": "0.53",
+    "android": "0.53"
   },
-  "versione_multiplayer": "0.52",
+  "versione_multiplayer": "0.53",
   "url_android": "https://play.google.com/store/apps/details?id=com.divano.streetuniversity",
   "url_ios": "",
   "url_desktop": ""
